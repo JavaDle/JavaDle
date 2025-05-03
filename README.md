@@ -14,8 +14,8 @@ I'm a passionate **Full-Stack Developer** with expertise in building robust, sca
 - **Backend**: `Laravel`, `PHP`, `NestJS`
 - **Frontend**: `Vue 3`, `Nuxt.js`, `Inertia.js`, `jQuery`
 - **UI & Styling**: `Bootstrap 5`, `HTML`, `CSS`, `Filament 3`
-- **Tools**: `Git`, `Linux`, `FastPanel`, `MySQL`, `Nginx`
-
+- **Tools**: `Git`, `Linux`, `FastPanel`, `MySQL`, `MariaDB`, `Nginx`
+- **Plugins**: `Filament 3`, `Laravel nova`
 ---
 
 ## 📊 GitHub Stats
